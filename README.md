@@ -22,6 +22,8 @@ Here are some previews of different parts of the application:
 ![image](https://github.com/user-attachments/assets/9a09451e-e6e9-4f6e-9b78-61cb1922162f)
 ![image](https://github.com/user-attachments/assets/c10be734-782e-4797-8c1b-a6fdd091085e)
 ![image](https://github.com/user-attachments/assets/473fce3d-17f9-43e2-bba7-f8827de4bff3)
+![image](https://github.com/user-attachments/assets/658404c2-469d-4681-9ea1-8cbe4b10bead)
+
 
 
 
